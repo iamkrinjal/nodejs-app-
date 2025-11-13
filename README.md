@@ -187,9 +187,28 @@ ii) Jenkins will pull your code from GitHub and execute the steps defined in the
 
 ![](./img/pipeline.png)
 
-## Step 10: Build Code
+## Step 10: Build Code Commit And push 
 ![](./img/build.png)
 
 Once your repository and Jenkins job are ready, it’s time to build your Node.js app locally and push the latest code to GitHub.
 
-## Step 10: 
+
+
+## Step 10: Conclusion
+
+In this project, we successfully automated code deployment using a CI/CD pipeline built with GitHub Actions / Jenkins, integrated with GitHub and deployed to an AWS EC2 instance.
+
+![](./img/output.png)
+
+
+### 📬 Connect with Me: 
+
+#### 👤 Krinjal V. Matekar
+#### 💼 Aspiring Cloud & DevOps Engineer
+### 🌐 GitHub Profile:
+https://github.com/iamkrinjal
+
+
+⭐ Don’t forget to star this repository if you found it helpful!
+
+
